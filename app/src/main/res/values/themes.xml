@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.Raton" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/fondo</item>
+        <item name="android:navigationBarColor">@color/fondo</item>
+    </style>
+    <color name="fondo">#FF15171C</color>
+    <color name="icono_fondo">#FF1A2E4A</color>
+</resources>
